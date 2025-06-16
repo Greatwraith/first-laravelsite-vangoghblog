@@ -27,7 +27,7 @@ A simple blog project built with Laravel, featuring a clean Blade-based template
 
 ## 🚀 Getting Started
 
->  **how to open** 
+```bash
 git clone https://github.com/yourusername/your-repo-name.git
 cd your-repo-name
 composer install
@@ -35,7 +35,11 @@ cp .env.example .env
 php artisan key:generate
 npm install && npm run dev
 php artisan serve
-Then open: http://localhost:8000
+```
+then open: [http://localhost:8000](http://localhost:8000)
+
+
+
 
 
 
