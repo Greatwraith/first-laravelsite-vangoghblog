@@ -27,7 +27,7 @@ A simple blog project built with Laravel, featuring a clean Blade-based template
 
 ## 🚀 Getting Started
 
-
+>  **how to open** 
 git clone https://github.com/yourusername/your-repo-name.git
 cd your-repo-name
 composer install
